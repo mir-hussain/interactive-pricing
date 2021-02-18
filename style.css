@@ -238,6 +238,17 @@ input:checked + .round-switch:before {
     transform: translateX(13px);
 }
 
+@media only screen and (max-width: 375px) {
+    .discount {
+        position: absolute;
+        bottom: 290px;
+        right: 74px;
+    }
+    .billing-method {
+        margin-bottom: 30px;
+    }
+}
+
 @media only screen and (max-width: 480px) {
     .card-container {
         width: 80%;
