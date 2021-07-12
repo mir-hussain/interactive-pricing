@@ -1,1 +1,1 @@
-Live Site: https://mir6996.github.io/interactive-pricing/
+Live Site: https://mir-hussain.github.io/interactive-pricing/
